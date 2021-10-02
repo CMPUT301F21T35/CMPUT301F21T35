@@ -1,4 +1,5 @@
 package com.cmput301f21t35.cmput301f21t35;
 
 public class Parallelogram extends Shape{
+  String color = "blue";
 }
